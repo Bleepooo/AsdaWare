@@ -7,4 +7,5 @@ Kid claims to have skidded the public version of this client, but not the privat
 Long story short, I got the private client in 0.00004 seconds and leaked it in less
 SalHack SKID
 
-> OmegaHack on top
+
+## OmegaHack on top
