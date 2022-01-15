@@ -1,0 +1,43 @@
+[
+    {
+      "modid": "asdaware",
+      "name": "AsdaWare",
+      "description": "AsdaWare, the unofficial client of Asda",
+      "version": "0.7",
+      "mcversion": "1.12.2",
+      
+      "authorList": ["ionar, asdacashier"],
+      "credits": "ionar, asdacashier",
+      "logoFile": "assets/salhack/imgs/SalHackWatermark.png",
+      "screenshots": [],
+      "dependencies": []
+    },
+    {
+      "modid": "lunatriuscore",
+      "name": "LunatriusCore",
+      "description": "A collection of utilities for Lunatrius' mods.",
+      "mcversion": "1.12.2",
+      "version": "1.2.0.42",
+      "authorList": ["Lunatrius"],
+      "credits": "",
+      "dependencies": [],
+      "logoFile": "",
+      "screenshots": [],
+      "updateUrl": "http://mc.lunatri.us/",
+      "url": "http://mc.lunatri.us/"
+    },
+    {
+      "modid": "schematica",
+      "name": "Schematica",
+      "description": "Import and export Minecraft schematic files in Minecraft!",
+      "mcversion": "1.12.2",
+      "version": "1.8.0.169",
+      "authorList": ["Lunatrius"],
+      "credits": "AbrarSyed, AtomicBlom, UltraMoogleMan",
+      "dependencies": [],
+      "logoFile": "assets/schematica/logo.png",
+      "screenshots": [],
+      "updateUrl": "http://mc.lunatri.us/",
+      "url": "http://mc.lunatri.us/"
+    }
+]
